@@ -1,0 +1,20 @@
+{
+  "name": "fractal-ecommerce",
+  "version": "1.0.0",
+  "description": "Full-stack e-commerce application with Django and React",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "heroku-postbuild": "cd frontend && npm install && npm run build && cd .. && python ecom/manage.py collectstatic --noinput"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiranthorat/FractalProjectEcommerce.git"
+  },
+  "author": "Kiran Thorat",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  }
+}
