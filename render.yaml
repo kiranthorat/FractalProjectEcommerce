@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: fractal-ecommerce
+    env: python
+    buildCommand: pip install -r requirements.txt && cd frontend && npm install && npm run build && cd ../ecom && python manage.py collectstatic --noinput
+    startCommand: cd ecom && gunicorn ecom.wsgi:application
+    envVars:
+      - key: DJANGO_SETTINGS_MODULE
+        value: ecom.production_settings
+      - key: DEBUG
+        value: False
+      - key: PYTHON_VERSION
+        value: 3.11.0
+databases:
+  - name: postgres
+    databaseName: fractal_ecommerce
+    user: fractal_user
