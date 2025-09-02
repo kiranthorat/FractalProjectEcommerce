@@ -1,6 +1,14 @@
 # Fractal E-commerce Application
 A full-stack e-commerce application built with Django REST Framework (backend) and React with Vite (frontend).
    
+
+https://github.com/user-attachments/assets/8ca488ca-3094-47cc-8d16-ded9709a2f8d
+
+
+https://github.com/user-attachments/assets/59b78925-ef63-4f0f-b8d9-fcb320e78f90
+
+
+
 ## 🚀 Features
 
 - **User Authentication**: Registration, login, and profile management
