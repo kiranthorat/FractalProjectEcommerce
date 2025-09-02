@@ -4,9 +4,7 @@
   "description": "Full-stack e-commerce application with Django and React",
   "main": "index.js",
   "scripts": {
-    "build": "cd frontend && npm install && npm run build",
-    "heroku-postbuild": "cd frontend && npm install && npm run build && cd .. && python ecom/manage.py collectstatic --noinput",
-    "render-build": "pip install -r requirements.txt && cd frontend && npm install && npm run build && cd ../ecom && python manage.py collectstatic --noinput"
+    "build": "cd frontend && npm install && npm run build"
   },
   "repository": {
     "type": "git",

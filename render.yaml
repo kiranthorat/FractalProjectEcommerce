@@ -9,9 +9,8 @@ services:
         value: ecom.production_settings
       - key: DEBUG
         value: False
-      - key: PYTHON_VERSION
-        value: 3.11.0
+
 databases:
-  - name: postgres
+  - name: fractal-postgres
     databaseName: fractal_ecommerce
     user: fractal_user
