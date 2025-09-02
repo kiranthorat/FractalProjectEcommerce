@@ -143,5 +143,15 @@ Fractal-Capstone/
 
 
 ---
+Core API Documentation
+   Swagger UI: http://127.0.0.1:8000/api/docs/ ✅
+   ReDoc: http://127.0.0.1:8000/api/redoc/ ✅
+   API Schema: http://127.0.0.1:8000/api/schema/ ✅
 
+Authentication
+   Token Auth: http://127.0.0.1:8000/api/api-token-auth/
+   DRF Auth: http://127.0.0.1:8000/api-auth/   
+
+
+   
 **Built with ❤️ by [Kiran Thorat](https://github.com/kiranthorat)**
