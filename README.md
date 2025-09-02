@@ -1,10 +1,6 @@
 # Fractal E-commerce Application
 A full-stack e-commerce application built with Django REST Framework (backend) and React with Vite (frontend).
    
-<img width="1360" height="557" alt="cartbeforelogin" src="https://github.com/user-attachments/assets/95ab091d-ee1d-4aeb-9cf5-f5c30e42981a" />
-
-
-   
 ## 🚀 Features
 
 - **User Authentication**: Registration, login, and profile management
@@ -158,3 +154,23 @@ Authentication
 
    
 **Built with ❤️ by [Kiran Thorat](https://github.com/kiranthorat)**
+Facing issue with deployment so attaching images of app
+<img width="1338" height="687" alt="welcome1" src="https://github.com/user-attachments/assets/55a3f4d7-34ac-4ec2-8232-302f7d8e17f5" />
+<img width="1360" height="557" alt="cartbeforelogin" src="https://github.com/user-attachments/assets/bfcbebe0-71b0-4130-ba03-aeb20398a304" />
+<img width="1362" height="492" alt="signup" src="https://github.com/user-attachments/assets/891099bd-186e-408b-aa0a-94a838def606" />
+<img width="1366" height="487" alt="signin" src="https://github.com/user-attachments/assets/85b646de-0b9c-4a55-a545-249179931b7d" />
+<img width="1361" height="537" alt="Cart" src="https://github.com/user-attachments/assets/a071650d-405a-4928-ab6b-12c12c841a14" />
+<img width="1166" height="639" alt="selectby category" src="https://github.com/user-attachments/assets/e21ad09b-cb9b-481a-b48b-83e396e498cd" />
+<img width="1338" height="638" alt="checkout" src="https://github.com/user-attachments/assets/9af0292d-af4b-40b1-8f59-bf5c0772bd07" />
+<img width="1323" height="628" alt="addressmanagement" src="https://github.com/user-attachments/assets/f2ac29ca-5abf-4570-910f-5ee3598a95ef" />
+<img width="1359" height="568" alt="orderhistory" src="https://github.com/user-attachments/assets/239f6930-7aa5-41f7-bc61-648cb6b0f7e0" />
+<img width="1327" height="633" alt="orderdetails" src="https://github.com/user-attachments/assets/cd66c930-ea15-4112-88d3-3dd5f83baee7" />
+
+
+
+
+
+
+
+
+
